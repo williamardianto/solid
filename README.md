@@ -1,1 +1,2 @@
-# solid
+# Example of SOLID principle in Java
+
