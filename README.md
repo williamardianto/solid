@@ -1,4 +1,4 @@
-# Example of SOLID principle in Java
+# Example of SOLID principles in Java
 
 ## Single Responsibility
 
